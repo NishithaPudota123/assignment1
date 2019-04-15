@@ -1,7 +1,7 @@
 /**
  * Grid.java
  *
- * Generates game board for TRON and handles the
+ * Generates game board for game and handles the
  * creation of Jet Walls and winner or loser notification.
  */
 
